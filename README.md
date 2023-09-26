@@ -1,2 +1,2 @@
 # weather-app
- Sample Kotlin-weather-app
+ Simple Kotlin-weather-app
